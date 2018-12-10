@@ -8,4 +8,6 @@ Features
 - Overall Oversight/Control of whole System by Admin via the Dashboard
 - Dashboards for Deacons
 
+Note: Whole Visitors Management Process modeled after a particular Church. Might not match the process of other churches. Feel free to modify. 
+
 
